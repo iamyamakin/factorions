@@ -10,8 +10,8 @@
 Функция [factorions()](script.js) ищет такие числа методом полного перебора.
 
 **Функции**
-* memoizer(memo, formula) — отвечает за мемоизацию;
-* factorial(n) — вычисляет факториал числа;
-* sumFactorialsDigits(n) — суммирует факториалы цифр числа;
-* factorions() — находит факторионы;
-* appendDataToElement(appendToElement, data) — добавляет данные в элемент в виде ненумерованного списка.
+* _memoizer(memo, formula)_ — отвечает за мемоизацию;
+* _factorial(n)_ — вычисляет факториал числа;
+* _sumFactorialsDigits(n)_ — суммирует факториалы цифр числа;
+* _factorions()_ — находит факторионы;
+* _appendDataToElement(appendToElement, data)_ — добавляет данные в элемент в виде ненумерованного списка.
