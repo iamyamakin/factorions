@@ -9,7 +9,7 @@
 Требуется найти [факторионы](http://en.wikipedia.org/wiki/Factorion).
 Функция [factorions()](script.js) ищет такие числа методом полного перебора.
 
-**Функции**
+**Функции:**
 * _memoizer(memo, formula)_ — отвечает за мемоизацию;
 * _factorial(n)_ — вычисляет факториал числа;
 * _sumFactorialsDigits(n)_ — суммирует факториалы цифр числа;
